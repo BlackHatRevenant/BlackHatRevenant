@@ -15,10 +15,11 @@ Hands-on learning through labs, challenges, and practical attack-defense exercis
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackHatRevenant.png)](https://tryhackme.com/p/BlackHatRevenant)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BlackHatRevenant&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=BlackHatRevenant&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHatRevenant&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Krishlix17&theme=vision-friendly-dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
