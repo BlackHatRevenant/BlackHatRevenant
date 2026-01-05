@@ -28,3 +28,9 @@ Hands-on learning through labs, challenges, and practical attack-defense exercis
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/krishlix17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishlix17" height="30" width="40" /></a>
+<a href="https://instagram.com/krish.py.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish.py.exe" height="30" width="40" /></a>
+</p>
