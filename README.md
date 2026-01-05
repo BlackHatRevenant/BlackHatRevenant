@@ -19,7 +19,7 @@ Aspiring Cybersecurity Professional | Ethical Hacking & Python Enthusiast | Linu
 # 🎓 Cybersecurity Journey  
 Hands-on learning through labs, challenges, and practical attack-defense exercises.
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackHatRevenant.png)](https://tryhackme.com)
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3381933" style='border:none;'></iframe>
 
 # 📊 GitHub Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)  
