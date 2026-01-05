@@ -1,15 +1,30 @@
-<h1 align="center">Hi 👋, I'm Krish Patel</h1>
-<h3 align="center">ybersecurity Enthusiast | Offensive & Defensive Security | Ethical Hacking | Linux User | Securing and Breaking Systems to Defend the Digital World</h3>
+# 💫 About Me  
+Aspiring Cybersecurity Professional | Ethical Hacking & Python Enthusiast | Linux Explorer | Focused on Web Security, Threat Analysis, and Network Defense
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishlix17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishlix17" height="30" width="40" /></a>
-<a href="https://instagram.com/krish.py.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish.py.exe" height="30" width="40" /></a>
-</p>
+# 💻 Skills & Tools  
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)  
+![Bash](https://img.shields.io/badge/Bash-121011?style=plastic&logo=gnu-bash&logoColor=white)  
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=plastic&logo=cisco&logoColor=white)  
+![Web Security](https://img.shields.io/badge/Web%20Security-5A2A82?style=plastic)  
+![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-FF4757?style=plastic)  
+![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-2ECC71?style=plastic)  
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-6A5ACD?style=plastic)  
+![DNS](https://img.shields.io/badge/DNS%20Fundamentals-1E90FF?style=plastic)  
+![Firewalls](https://img.shields.io/badge/Firewalls-8B0000?style=plastic)  
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+# 🎓 Cybersecurity Journey  
+Hands-on learning through labs, challenges, and practical attack-defense exercises.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhatrevenant&show_icons=true&locale=en&layout=compact" alt="blackhatrevenant" /></p>
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackHatRevenant.png)](https://tryhackme.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhatrevenant&show_icons=true&locale=en" alt="blackhatrevenant" /></p>
+# 📊 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=Krishlix17&theme=vision-friendly-dark&hide_border=true)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Random Dev Quote  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
