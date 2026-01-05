@@ -1,5 +1,8 @@
-# 💫 About Me  
+#  About Me  
 Aspiring Cybersecurity Professional | Ethical Hacking & Python Enthusiast | Linux Explorer | Focused on Web Security, Threat Analysis, and Network Defense
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish.py.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishlix17) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krish.codekp@gmail.com) 
 
 # 💻 Skills & Tools  
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  
@@ -15,22 +18,24 @@ Aspiring Cybersecurity Professional | Ethical Hacking & Python Enthusiast | Linu
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)  
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
 
 # 🎓 Cybersecurity Journey  
 Hands-on learning through labs, challenges, and practical attack-defense exercises.
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackHatRevenant.png)](https://tryhackme.com/p/BlackHatRevenant)
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Krishlix17&theme=vision-friendly-dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=BlackHatRevenant&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=BlackHatRevenant&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackHatRevenant&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishlix17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishlix17" height="30" width="40" /></a>
-<a href="https://instagram.com/krish.py.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krish.py.exe" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BlackHatRevenant&limit=5&theme=chartreuse-dark&combine_all_yearly_contributions=true)
