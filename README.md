@@ -1,5 +1,5 @@
 #  About Me  
-Aspiring Cybersecurity Professional | Ethical Hacking & Python Enthusiast | Linux Explorer | Focused on Web Security, Threat Analysis, and Network Defense
+Cybersecurity Undergraduate | SOC & Blue Team (Entry-Level) | Threat Detection & Incident Response | Linux
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish.py.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishlix17) 
