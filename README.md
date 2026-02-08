@@ -1,26 +1,60 @@
-#  About Me  
-Cybersecurity Undergraduate | SOC & Blue Team (Entry-Level) | Threat Detection & Incident Response | Linux
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krish.py.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishlix17) 
+[Brief Introduction - Remove this afterwards]
 
-# 💻 Skills & Tools  
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)   ![Networking](https://img.shields.io/badge/Networking-0078D4?style=plastic&logo=cisco&logoColor=white)  ![Web Security](https://img.shields.io/badge/Web%20Security-5A2A82?style=plastic)  ![Threat Analysis](https://img.shields.io/badge/Threat%20Analysis-FF4757?style=plastic)  ![Ethical Hacking](https://img.shields.io/badge/Ethical%20Hacking-2ECC71?style=plastic)  ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-6A5ACD?style=plastic)  ![DNS](https://img.shields.io/badge/DNS%20Fundamentals-1E90FF?style=plastic)  
-![Firewalls](https://img.shields.io/badge/Firewalls-8B0000?style=plastic)  ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=plastic&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)  ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=plastic&logo=Raspberry-Pi)![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-# 🎓 Cybersecurity Journey  
-Hands-on learning through labs, challenges, and practical attack-defense exercises.
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/BlackHatRevenant.png)](https://tryhackme.com/p/BlackHatRevenant)
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-# 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=Krishlix17&theme=vision-friendly-dark&hide_border=true)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishlix17&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-### ✍️ Random Dev Quote  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
